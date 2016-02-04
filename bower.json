@@ -1,0 +1,20 @@
+{
+  "name": "meteor-ng-device-detector",
+  "main": "meteor-ng-device-detector.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mxab/meteor-ng-device-detector",
+  "authors": [
+    "Max Bruchmann <maxbruchmann@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng-device-detector": "^2.0.3"
+  }
+}
